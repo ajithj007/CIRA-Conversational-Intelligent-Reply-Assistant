@@ -24,6 +24,8 @@
 ---
 
 ## 🗂 Project Structure
+
+```
 whatsapp_reply_assistant/
 ├── backend/
 │   ├── main.py              # FastAPI REST API
@@ -42,6 +44,7 @@ whatsapp_reply_assistant/
 ├── start.py                 # One-command launcher
 ├── .env.example
 └── README.md
+```
 
 ---
 
